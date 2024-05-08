@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "585591171392",
+    "firebase_url": "https://hunger02-default-rtdb.firebaseio.com",
+    "project_id": "hunger02",
+    "storage_bucket": "hunger02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585591171392:android:9b5be38f1ae3a9e7cc72a5",
+        "android_client_info": {
+          "package_name": "com.example.hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585591171392-jg5lg13h895uolb2446k5v0k1oqf4r0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hunger",
+            "certificate_hash": "e353516cb03712c375781fc5bd4356110f531779"
+          }
+        },
+        {
+          "client_id": "585591171392-km28f8a3c7clhvsq606iujlqtl8jp2qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GGyA7ywsvQMri55x6TJqWz14wAXukBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585591171392-c0lpsgfn5qk41cjeu035q76dhvm18ecl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585591171392-cm29pjd8mqg228uegl96rpds12g08l0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hunger.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585591171392:android:6bfa2af2adc46c51cc72a5",
+        "android_client_info": {
+          "package_name": "com.example.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585591171392-km28f8a3c7clhvsq606iujlqtl8jp2qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GGyA7ywsvQMri55x6TJqWz14wAXukBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585591171392-c0lpsgfn5qk41cjeu035q76dhvm18ecl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585591171392-cm29pjd8mqg228uegl96rpds12g08l0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hunger.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
