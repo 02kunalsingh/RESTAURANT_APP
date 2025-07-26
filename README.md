@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Partner App – Hunger System
+# 🍽️ Restaurant Partner App – Hunger
 
 A **Flutter + Firebase** app designed for restaurant owners to manage their menu and food listings within the **Hunger Food Delivery System**. This app allows restaurant partners to securely log in, and perform create, read, update, and delete (CRUD) operations on their menu items.
 
